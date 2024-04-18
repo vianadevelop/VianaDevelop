@@ -16,7 +16,7 @@ Programador com três anos de estudos na área.
  
 ## ♨︎ Linguagens
 
-  <img src="https://skillicons.dev/icons?i=html,css,java,flutter,javascript,ts&perline=14" />
+  <img src="https://skillicons.dev/icons?i=java,flutter,javascript,ts&perline=14" />
   
 
 
