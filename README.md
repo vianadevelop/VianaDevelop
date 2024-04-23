@@ -1,7 +1,7 @@
 ### Olá, meu nome é <strong>Victor Lucas!</strong>
 
 - 💎Software Enginner
-- 💻Estudando Java e Javascript ...
+- 💻Estudando Java, Javascript e flutter ...
 - 📚UNESA / Graduando em Gestão da tecnológia da informação
 
 Programador com três anos de estudos na área.
@@ -16,7 +16,7 @@ Programador com três anos de estudos na área.
  
 ## ♨︎ Linguagens
 
-  <img src="https://skillicons.dev/icons?i=java,javascript,ts&perline=14" />
+  <img src="https://skillicons.dev/icons?i=java,flutter,javascript,ts&perline=14" />
   
 
 
