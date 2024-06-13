@@ -21,7 +21,7 @@ Programador com três anos de estudos na área.
 
 
 ## ⚙️ Framework
-  <img src="https://skillicons.dev/icons?i=spring,maven,nodejs,angular,figma,ps,notion&perline=14" />
+  <img src="https://skillicons.dev/icons?i=spring,maven,figma,ps,notion&perline=14" />
 
   
 ## 🗃️ Banco de Dados
