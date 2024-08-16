@@ -4,7 +4,6 @@
 - 💻Estudando Java
 - 📚UNESA / Graduando em Gestão da tecnológia da informação
 
-Programador com três anos de estudos na área.
 
 📲 Contatos
 
@@ -16,7 +15,7 @@ Programador com três anos de estudos na área.
  
 ## ♨︎ Linguagens
 
-  <img src="https://skillicons.dev/icons?i=java,javascript,ts&perline=14" />
+  <img src="https://skillicons.dev/icons?i=java,django,ts&perline=14" />
   
 
 
