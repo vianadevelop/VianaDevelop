@@ -14,7 +14,7 @@
 <div align="center">
  
 ## ♨︎ Linguagens
-  <img src="https://skillicons.dev/icons?i=java,python,ts,cpp&perline=14" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp&perline=14" />
   
 
 ## ⚙️ Framework
