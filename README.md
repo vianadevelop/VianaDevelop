@@ -14,22 +14,13 @@
 <div align="center">
  
 ## ♨︎ Linguagens
-
-  <img src="https://skillicons.dev/icons?i=java,python,ts,c&perline=14" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,cpp&perline=14" />
   
 
 ## ⚙️ Framework
-  <img src="https://skillicons.dev/icons?i=spring,maven,figma,ps,notion&perline=14" />
+  <img src="https://skillicons.dev/icons?i=spring,django&perline=14" />
 
-  
-## 🗃️ Banco de Dados
-  <img src="https://skillicons.dev/icons?i=mysql,oracle,mongodb&perline=14" />
-
-## 🗄️ Versionamento
-  <img src="https://skillicons.dev/icons?i=git,github&perline=14" />
-
-## ☁️ Cloud
-  <img src="https://skillicons.dev/icons?i=aws,cloudflare,gcp&perline=14" />
+ 
 
 
   
