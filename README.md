@@ -14,11 +14,11 @@
 <div align="center">
  
 ## ♨︎ Linguagens
-  <img src="https://skillicons.dev/icons?i=java,go,perline=14" />
+  <img src="https://skillicons.dev/icons?i=java,go&,perline=14" />
   
 
 ## ⚙️ Framework
-  <img src="https://skillicons.dev/icons?i=springperline=14" />
+  <img src="https://skillicons.dev/icons?i=spring&perline=14" />
 
  
 
